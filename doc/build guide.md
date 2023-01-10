@@ -13,6 +13,9 @@ cmake ..
 make
 ```
 下完指令之後，在 `build` 資料夾中會產生中間檔案
+
 ![](https://i.imgur.com/boiWiKT.png)
+
 在 `bin` 資料夾中會產生可執行檔
+
 ![](https://i.imgur.com/0htXa5E.png)
